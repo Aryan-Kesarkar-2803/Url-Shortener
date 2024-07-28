@@ -1,1 +1,1 @@
-Basic Url-Shortener created using MERN stack 
+URL-Shortener created using MERN stack 
